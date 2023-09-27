@@ -1,0 +1,4 @@
+.terraform/
+.idea/
+target/
+HelloLambdaWorld.iml
